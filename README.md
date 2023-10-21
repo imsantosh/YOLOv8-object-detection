@@ -14,10 +14,9 @@ https://github.com/ultralytics/ultralytics
 https://github.com/HumanSignal/labelImg
 
 # Update the Yaml file with actual images(train, val, number of class & class list) file path of your google drive
-train: /content/drive/MyDrive/Yolov8/data/train/images
-val: /content/drive/MyDrive/Yolov8/data/valid/images
-
-nc: 5
-names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
+1) train: /content/drive/MyDrive/Yolov8/data/train/images
+2) val: /content/drive/MyDrive/Yolov8/data/valid/images
+3) nc: 5
+4) names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
 
 

@@ -13,4 +13,11 @@ https://github.com/ultralytics/ultralytics
 # To Annotate the image use install labelImg(refer the install guideline into below url)
 https://github.com/HumanSignal/labelImg
 
+# Update the Yaml file with actual images(train, val, number of class & class list) file path of your google drive
+train: /content/drive/MyDrive/Yolov8/data/train/images
+val: /content/drive/MyDrive/Yolov8/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
+
 

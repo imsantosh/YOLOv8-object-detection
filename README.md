@@ -10,7 +10,7 @@ https://github.com/ultralytics/ultralytics
 3) Post traning best & last model will be saved into google drive
 4) Use best model for predection
 
-# To Anotate the image use install labelImg(refer the install guideline into below url)
+# To Annotate the image use install labelImg(refer the install guideline into below url)
 https://github.com/HumanSignal/labelImg
 
 

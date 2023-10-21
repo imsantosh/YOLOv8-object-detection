@@ -19,5 +19,6 @@ https://github.com/HumanSignal/labelImg
 3) nc: 5
 4) names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
 
+## refer Attached screen shot for better understanding
 
 
